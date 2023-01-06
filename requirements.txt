@@ -1,0 +1,9 @@
+pandas
+sklearn
+matplotlib
+numpy
+seaborn
+xgboost
+openpyxl==3.0.10
+imblearn==0.0
+hyperopt==0.2.7
